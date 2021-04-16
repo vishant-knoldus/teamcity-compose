@@ -1,0 +1,10 @@
+[2021-04-12 07:19:42,168]   INFO [id: MAIN_SERVER] - etbrains.buildServer.WEBSOCKET - WebSocket feature is supported for Apache Tomcat/8.5.61
+[2021-04-12 09:24:21,498]   INFO [id: MAIN_SERVER] - etbrains.buildServer.WEBSOCKET - WebSocket feature is supported for Apache Tomcat/8.5.61
+[2021-04-14 08:31:27,107]   WARN [nio-8111-exec-9] - etbrains.buildServer.WEBSOCKET - CSRF token does not match CSRF session value for session 'e' ('vishant' {id=1}), closing the connection.
+[2021-04-14 08:31:27,107]   WARN [nio-8111-exec-9] - etbrains.buildServer.WEBSOCKET - Closing session e: VIOLATED_POLICY Invalid CSRF token was received
+[2021-04-14 08:31:27,623]   WARN [nio-8111-exec-2] - etbrains.buildServer.WEBSOCKET - CSRF token does not match CSRF session value for session 'f' ('vishant' {id=1}), closing the connection.
+[2021-04-14 08:31:27,623]   WARN [nio-8111-exec-2] - etbrains.buildServer.WEBSOCKET - Closing session f: VIOLATED_POLICY Invalid CSRF token was received
+[2021-04-14 15:55:15,272]   WARN [nio-8111-exec-4] - etbrains.buildServer.WEBSOCKET - CSRF token does not match CSRF session value for session '1c' ('vishant' {id=1}), closing the connection.
+[2021-04-14 15:55:15,272]   WARN [nio-8111-exec-4] - etbrains.buildServer.WEBSOCKET - Closing session 1c: VIOLATED_POLICY Invalid CSRF token was received
+[2021-04-15 18:10:06,134]   WARN [nio-8111-exec-5] - etbrains.buildServer.WEBSOCKET - CSRF token does not match CSRF session value for session '9e' ('vishant' {id=1}), closing the connection.
+[2021-04-15 18:10:06,152]   WARN [nio-8111-exec-5] - etbrains.buildServer.WEBSOCKET - Closing session 9e: VIOLATED_POLICY Invalid CSRF token was received

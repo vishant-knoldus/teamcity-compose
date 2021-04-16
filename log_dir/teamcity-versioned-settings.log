@@ -1,0 +1,2 @@
+[2021-04-12 07:20:46,126]   INFO - ings.CurrentVersionTrackerImpl - Reset current settings version of project(s): java.util.stream.ReferencePipeline$3@1cb308ec, reason: project settings were changed by config persisting tasks which were executed on startup
+[2021-04-12 09:25:51,466]   INFO - ings.CurrentVersionTrackerImpl - Reset current settings version of project(s): java.util.stream.ReferencePipeline$3@5586ceb4, reason: project settings were changed by config persisting tasks which were executed on startup

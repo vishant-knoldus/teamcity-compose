@@ -1,0 +1,1 @@
+http://sonarqube:9000/dashboard?id=Spring3hibernate

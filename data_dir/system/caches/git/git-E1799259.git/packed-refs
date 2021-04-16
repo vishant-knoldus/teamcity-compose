@@ -1,0 +1,13 @@
+# pack-refs with: peeled
+c58a663084a73494853d7201b2a6071d48fb9f30 refs/heads/compose-setup
+d932de9b0e7d83f36920b06a2bf4386b4b93dfdd refs/heads/dependabot/maven/commons-beanutils-commons-beanutils-1.9.4
+d723163ebf5214e1589ebc903f9a1fca4b465fd8 refs/heads/dependabot/maven/commons-collections-commons-collections-3.2.2
+e8ec2e43017acc17f92b98e1828271382d264a7c refs/heads/dependabot/maven/commons-fileupload-commons-fileupload-1.3.3
+b46ea8e7f5343880db688a59fc3b8c1c60babf53 refs/heads/dependabot/maven/junit-junit-4.13.1
+94d4b30365aac946a14bbb7cb6c7e55fdff6eb9c refs/heads/dependabot/maven/mysql-mysql-connector-java-8.0.16
+2b035d5321edb56967248e74247c1ede6c380cc1 refs/heads/dependabot/maven/org.apache.lucene-lucene-core-7.1.0
+a639740563a1f353967798ab6197319d082be01b refs/heads/dependabot/maven/org.hibernate-hibernate-validator-5.3.5.Final
+1706a262ce67f97640dcb4c209c7c228bec84586 refs/heads/dependabot/maven/org.springframework-spring-core-4.3.21.RELEASE
+b33050bef880119eca8cef8338e06a7cb4b0872a refs/heads/dependabot/maven/xerces-xercesImpl-2.12.0
+b6244195ccc89e91bd916f74f0c65c8a3a98d053 refs/heads/kubernetes_setup
+052b7b9860cb94b8b7904562c0d4a6f8991dee99 refs/heads/master

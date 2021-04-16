@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	logallrefupdates = false
+[teamcity]
+	remote = https://github.com/opstree/spring3hibernate.git

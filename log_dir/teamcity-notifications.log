@@ -1,0 +1,4 @@
+[2021-04-12 07:20:05,516]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: /data/teamcity_server/datadir/config/_notifications/email/email-config.xml
+[2021-04-12 07:20:09,143]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: /data/teamcity_server/datadir/config/_notifications/jabber/jabber-config.xml
+[2021-04-12 09:25:05,006]   INFO - n.email.EMailNotificatorConfig - Loading configuration file: /data/teamcity_server/datadir/config/_notifications/email/email-config.xml
+[2021-04-12 09:25:19,402]   INFO - jabber.JabberNotificatorConfig - Loading configuration file: /data/teamcity_server/datadir/config/_notifications/jabber/jabber-config.xml
